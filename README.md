@@ -11,6 +11,8 @@ A manual snapshot camera built on the [M5Stack StickV](https://docs.m5stack.com/
 - Photos auto-increment on SD card (`img_0000.jpg`, `img_0001.jpg`, ...)
 - CYD displays each new photo full-screen (320×240) as it arrives
 - CYD shows status bar with C3 relay IP and photo count
+- **NOW with Persistance** Saves the last 24 photos to CYD without an SD card.
+- **plus** 4 basic Filters on the CYD software.
 
 ---
 
